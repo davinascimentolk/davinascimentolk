@@ -10,7 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/90ik5e"/>
 
 ###
 
