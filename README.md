@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleslleydemoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="150" alt="languages graph"/>
   <div align="center">
     <a href="mailto:djcnunb@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/davi-jos%C3%A9-carvalho-nascimento-430100326/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
